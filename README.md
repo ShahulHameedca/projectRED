@@ -1,2 +1,2 @@
-# projectRED
+# ProjectRED
 HACKING HUB
